@@ -35,7 +35,7 @@ theme = 'mana'
 [params]
   enableIntegrity = false
   relatedPostsCount = 3
-  description = "Reverie: Where all things lie"
+  description = "Reverie is a fantasy world from a video game that exists in a modern world very similar to our own where everything feels real. Reverie is a real place and the modern world is a fictional concept you have been cursed into believing is true. Both of those statements contradict each other. Both of them are somehow true."
   author = "SlyPrincess"
   heroTitleLine1 = "Reverie"
   heroTitleLine2 = "Where All Things Lie"
