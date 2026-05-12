@@ -1,7 +1,7 @@
 baseURL = 'https://slywiggler.github.io/'
 locale = 'en-us'
 title = 'Reverie'
-theme = 'Mana'
+theme = 'mana'
 
 [pagination]
   pageSize = 10
