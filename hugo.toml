@@ -85,3 +85,9 @@ theme = 'mana'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params.avatar]
+  [params.avatar.home]
+    assetPath = "images/fairie.svg"
+  [params.avatar.about]
+    assetPath = "images/devilrabbit.svg"
