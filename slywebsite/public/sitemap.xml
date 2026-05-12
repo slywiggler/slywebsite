@@ -2,10 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://readreverie.com/posts/my-first-post/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://readreverie.com/posts/my-first-post/"/>
   </url>
+  <url>
+    <loc>https://readreverie.com/posts/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://readreverie.com/posts/"/>
+  </url>
+  <url>
+    <loc>https://readreverie.com/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://readreverie.com/"/>
+  </url>
+  <url>
+    <loc>https://readreverie.com/categories/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://readreverie.com/categories/"/>
+  </url>
+  <url>
+    <loc>https://readreverie.com/tags/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://readreverie.com/tags/"/>
+  </url>
+  
 </urlset>

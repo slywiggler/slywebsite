@@ -1,3 +1,83 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://readreverie.com/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Reverie'
+theme = 'Mana'
+
+[pagination]
+  pageSize = 10
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
+    ordered = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    noClasses = false
+    style = "catppuccin-macchiato"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  enableIntegrity = false
+  relatedPostsCount = 3
+  description = "Reverie: Where all things lie"
+  author = "SlyPrincess"
+  heroTitleLine1 = "Reverie"
+  heroTitleLine2 = "Where All Things Lie"
+  footerText = "Powered by VRsimilitude"
+
+  [params.social]
+    archiveofourown = "https://archiveofourown.org/users/Slylittleprincess"
+    tumblr = "https://www.tumblr.com/blog/slylittleprincess"
+    bsky = "https://bsky.app/profile/slylilprincess.bsky.social"
+
+  [params.buyMeACoffee]
+    enabled = false
+    id = "yourwidgetid"
+
+  [params.codeHighlight]
+    darkTheme = "catppuccin-macchiato"
+    lightTheme = "catppuccin-frappe"
+
+  [params.copyright]
+    startYear = 2026
+    owner = "SlyPrincess"
+
+  [params.admonitions]
+    alertStyle = "favicon"
+
+# Single language: use root-level menus. No [languages] block needed.
+[[menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[menus.main]]
+  name = "Posts"
+  pageRef = "/posts"
+  weight = 20
+
+[[menus.main]]
+  name = "Tags"
+  pageRef = "/tags"
+  weight = 30
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 40
