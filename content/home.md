@@ -1,5 +1,5 @@
 ---
-title: "Reverie"
+title: "Home"
 date: 2024-01-01
 tags: ["Fairies", "Reverie"]
 image: "/images/fairie.png"
