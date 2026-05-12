@@ -81,3 +81,7 @@ theme = 'Mana'
   name = "About"
   url = "/about/"
   weight = 40
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
