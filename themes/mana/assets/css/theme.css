@@ -64,6 +64,8 @@ html {
   /* Typography - Nebula Glass Theme */
   --font-heading:
     "Space Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-special:
+    "Protest Revolution", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --font-body:
     "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
