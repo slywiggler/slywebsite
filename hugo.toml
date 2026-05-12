@@ -88,6 +88,6 @@ theme = 'mana'
 
 [params.avatar]
   [params.avatar.home]
-    assetPath = "images/fairie.png"
+    assetPath = "images/devilrabbit.png"
   [params.avatar.about]
     assetPath = "images/devilrabbit.png"
