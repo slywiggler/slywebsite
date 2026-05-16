@@ -1,5 +1,5 @@
 
-<div style="font-family: 'mono'"> 
+<div style="font-family: var(--font-mono)"> 
 Reverie is a fantasy world from a video game that exists in a modern world very similar to our own. 
 One where everything feels real. 
 Reverie is a real place, and the modern world is a fictional concept you have been cursed into believing is true. 
