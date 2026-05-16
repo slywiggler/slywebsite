@@ -82,8 +82,12 @@ theme = 'mana'
   url = "/about/"
   weight = 40
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
 [params.avatar]
   [params.avatar.home]
-    assetPath = "images/fairie.png"
+    assetPath = "images/tester.png"
   [params.avatar.about]
     assetPath = "images/devilrabbit.png"
