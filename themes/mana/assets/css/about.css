@@ -35,7 +35,7 @@
   font-size: 1.25rem;
   color: var(--text-secondary);
   margin: 0 0 var(--spacing-lg) 0;
-  font-style: italic;
+  font-family: var(--font-special);
 }
 
 .about-page-social {
