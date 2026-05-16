@@ -20,6 +20,6 @@ Both of them are somehow true.
 
 # The Author
 SlyPrincess is an author, elf, bunny and doll woman who has been creating escapist fantasies since she was a little boy. This specific fantasy began to form as a proto-setting used in TTRPG games beginning in 2021. She began writing stories for others to read in 2024, primarily in the Human Domestication Guide Setting. Now she's writting about Reverie!   
-For more information in SlyPrincess, follow her on social media or read her stories [here](https://slyprincess.carrd.co/).  
+For more information on SlyPrincess, follow her on social media or read her stories [here](https://slyprincess.carrd.co/).  
 For more information on being a woman, read about HRT [here](https://en.wikipedia.org/wiki/Hormone_replacement_therapy).  
 For more information on being a pactling, head to your local *Abby of Erathii*.
