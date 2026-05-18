@@ -5,7 +5,7 @@ date = 2026-05-12
 weight = 1
 draft = false  
 tags: ["Reverie ~ A Fairie's PAct", "SlyPrincess", "sexual Content', "Lesbian", "transgender character", "Fairy", "Fantasy", "Dubious Consent", "Manipulation", "Conditioning", "Body Writing", "Erotic Betrayal", "Mind Control", "Hypnosis", "Gaslighting", "Identity Manipulation", "Master/Pet", "Dominance", "Submission", "Pet", "Size Difference", "video game isekai", "Non-Consensual Drug Use", "Addiction Themes", "Pactling", "Praise Kink"]
-image: "/images/devilrabbit.png"
+image: "https://i.ibb.co/rRZY3yW1/devilrabbit.png"
 
 +++
 
