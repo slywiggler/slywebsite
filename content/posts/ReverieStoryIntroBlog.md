@@ -1,6 +1,6 @@
 +++
 
-title = 'Reverie ~ A Fairies Pact'  
+title = 'Reverie ~ A Fairie's Pact'  
 date = 2026-05-12
 weight = 1
 draft = false  
