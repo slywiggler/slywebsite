@@ -3,7 +3,6 @@
 title = 'The Wolf and The Witch'  
 date = 2026-05-16
 draft = false  
-tags: ["tag3", "testfour"]
 
 +++
 
