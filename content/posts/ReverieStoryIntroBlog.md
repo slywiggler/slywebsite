@@ -4,7 +4,6 @@ title = 'Reverie ~ A Fairies Pact'
 date = 2026-05-12
 weight = 1
 draft = false  
-tags: ["test1", "tag2"]
 
 +++
 
