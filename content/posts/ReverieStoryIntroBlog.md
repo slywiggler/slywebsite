@@ -1,8 +1,9 @@
 +++
 
-title = 'Reverie ~ A Fairies Pact'
-date = 2024-01-14T07:07:07+01:00
-draft = false
+title = 'Reverie ~ A Fairies Pact'  
+date = 2026-05-12
+weight = 1
+draft = false  
 
 +++
 
