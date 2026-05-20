@@ -3,7 +3,7 @@
 title = 'Nightshade'
 date = 2026-05-19 
 draft = false
-tags: ["tag1", "tag2"]
+tags = ["tag1", "tag2"]
 
 +++
 # [Nightshade by Lagnia](https://archiveofourown.org/works/85109386)
