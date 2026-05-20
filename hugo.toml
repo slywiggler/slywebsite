@@ -82,6 +82,10 @@ theme = 'mana'
   url = "/about/"
   weight = 40
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
