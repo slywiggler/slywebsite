@@ -3,7 +3,7 @@
 title = 'The Wolf and The Witch'  
 date = 2026-05-16
 draft = false  
-tags = ["The Wolf and The Witch", "Sheepwave", "Princesses", "Enemies to Lovers", "Power Bottom", "submissive top", "Size Difference", "big sub", "Small Domme", "t4t", "Trans Female Protagonists", "Trans Female Character", "Autistic Characters", "POV Alternating", "Fantasy", "Animal Transformations", "Forced Relationship", "Hurt/Comfort", "Femdom", "Hypnosis", "Mind Control", "Drug Use", "Conditioning", "Manipulation", "Age Difference", "Humiliation", "Scent Kink", "Anal Sex", "Oral Sex", "Petplay", "Puppy Play", "BDSM", "Master/Pet", "Monsterfucking", "omegaverse elements", "Knotting", "Princessification", "Dubious Consent", "Rape/Non-con Elements", "empty spaces", "handler/hound - Freeform", "Domestication", "Dolls"]
+tags = ["The Wolf and The Witch", "Sheepwave", "Princesses", "Enemies to Lovers", "Power Bottom", "submissive top", "Size Difference", "big sub", "Small Domme", "t4t", "Trans Female Protagonists", "Trans Female Character", "Autistic Characters", "POV Alternating", "Fantasy", "Animal Transformations", "Forced Relationship", "Hurt Comfort", "Femdom", "Hypnosis", "Mind Control", "Drug Use", "Conditioning", "Manipulation", "Age Difference", "Humiliation", "Scent Kink", "Anal Sex", "Oral Sex", "Petplay", "Puppy Play", "BDSM", "Master Pet", "Monsterfucking", "omegaverse elements", "Knotting", "Princessification", "Dubious Consent", "Rape Non-con Elements", "empty spaces", "handler hound Freeform", "Domestication", "Dolls"]
 description = *The Wolf and The Witch* is A Tale of Reverie by Sheepwave
 
 +++
