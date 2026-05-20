@@ -4,7 +4,7 @@ title = 'Reverie ~ A Fairies Pact'
 date = 2026-05-12
 weight = 1
 draft = false  
-tags = ["Reverie ~ A Fairie's Pact", "SlyPrincess", "sexual Content', "Lesbian", "transgender character", "Fairy", "Fantasy", "Dubious Consent", "Manipulation", "Conditioning", "Body Writing", "Erotic Betrayal", "Mind Control", "Hypnosis", "Gaslighting", "Identity Manipulation", "Master/Pet", "Dominance", "Submission", "Pet", "Size Difference", "video game isekai", "Non-Consensual Drug Use", "Addiction Themes", "Pactling", "Praise Kink"]
+tags = ["A Fairie's Pact", "SlyPrincess", "sexual Content', "Lesbian", "transgender character", "Fairy", "Fantasy", "Dubious Consent", "Manipulation", "Conditioning", "Body Writing", "Erotic Betrayal", "Mind Control", "Hypnosis", "Gaslighting", "Identity Manipulation", "Master/Pet", "Dominance", "Submission", "Pet", "Size Difference", "video game isekai", "Non-Consensual Drug Use", "Addiction Themes", "Pactling", "Praise Kink"]
 
 
 +++
