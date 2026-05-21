@@ -5,7 +5,7 @@ date = 2026-05-12
 weight = 1
 draft = false  
 tags = ["Reverie ~ A Fairies Pact", "SlyPrincess", "Pactling", "Praise Kink", "Lesbian", "transgender character", "Fairy", "Fantasy", "Dubious Consent", "Manipulation", "Conditioning", "Body Writing", "Sexual Content", "Erotic Betrayal", "Mind Control", "Hypnosis", "Gaslighting", "Identity Manipulation", "Master Pet", "Dominance", "Submission", "Pet", "Size Difference", "Video Game Isekai", "Non Consensual Drug Use", "Addiction Themes"]
-description = <em>"A sapphic dark romance about becoming a Fairie’s pet and a video game’s victim."</em>
+description = """<em>A sapphic dark romance about becoming a Fairie’s pet and a video game’s victim.</em>"""
 
 +++
 
