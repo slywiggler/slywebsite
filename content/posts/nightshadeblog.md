@@ -3,7 +3,8 @@
 title = 'Nightshade'
 date = 2026-05-19 
 draft = false
-tags = ["tag1", "tag2"]
+tags = ["Nightshade", "Lagnia", "Pactling", "Size Difference", "Explicit Sexual Content", "Fae", "Fairy", "Dubious Consent", "Body Writing", "Master Servant", "Master Pet", "Addiction", "Praise Kink", "Cursed Equipment", "Status Effects", "Bondage of All Kinds"]
+description: "Nightshade is a Tale of Reverie by Lagnia"
 
 +++
 # [Nightshade by Lagnia](https://archiveofourown.org/works/85109386)
