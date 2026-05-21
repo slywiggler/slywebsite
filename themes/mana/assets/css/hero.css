@@ -92,7 +92,7 @@
 }
 @media (max-width: 768px) {
   .hero-title .hero-title-line1 {
-    font-size: 8rem !important; /* Adjust this number to make it as big as you want */
+    font-size: 6rem !important; /* Adjust this number to make it as big as you want */
     line-height: 1.0 !important;
   }
 }
