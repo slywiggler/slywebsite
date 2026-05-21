@@ -4,13 +4,12 @@ title = 'Reverie ~ A Fairies Pact'
 date = 2026-05-12
 weight = 1
 draft = false  
-tags = ["Reverie ~ A Fairies Pact", "SlyPrincess", "Pactling", "Praise Kink", "Lesbian", "transgender character", "Fairy", "Fantasy", "Dubious Consent", "Manipulation", "Conditioning", "Body Writing", "sexual Content", "Erotic Betrayal", "Mind Control", "Hypnosis", "Gaslighting", "Identity Manipulation", "Master Pet", "Dominance", "Submission", "Pet", "Size Difference", "Video Game Isekai", "Non Consensual Drug Use", "Addiction Themes"]
-
+tags = ["Reverie ~ A Fairies Pact", "SlyPrincess", "Pactling", "Praise Kink", "Lesbian", "transgender character", "Fairy", "Fantasy", "Dubious Consent", "Manipulation", "Conditioning", "Body Writing", "Sexual Content", "Erotic Betrayal", "Mind Control", "Hypnosis", "Gaslighting", "Identity Manipulation", "Master Pet", "Dominance", "Submission", "Pet", "Size Difference", "Video Game Isekai", "Non Consensual Drug Use", "Addiction Themes"]
+description = <em>A sapphic dark romance about becoming a Fairie’s pet and a video game’s victim.</em>
 
 +++
 
 ## [Reverie ~ A Fairie's Pact by SlyPrincess](https://archiveofourown.org/works/84738376)
-*A sapphic dark romance about becoming a Fairie’s pet and a video game’s victim.*  
 Both of these synopsis contradict each other. Somehow, both of them are true.  
 Faonari Windborne is an elven adventurer in the magical world of Reverie, who has recently become afflicted by a Realitycurse. Hallucinations plague her of a terrible realm where magic isn’t real and people are forced to work through chronic pain.  
 Fortunately, a beautiful manipulative fairie fey named Aurelia knows just how to help her. Unfortunately, it may involve taking her soul and turning her into a pactling - a bonded familiar enthralled to their patron.  
