@@ -90,3 +90,9 @@
     transform: translateY(-20px);
   }
 }
+@media (max-width: 768px) {
+  .hero-title .hero-title-line1 {
+    font-size: 12rem !important; /* Adjust this number to make it as big as you want */
+    line-height: 1.0 !important;
+  }
+}
