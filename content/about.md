@@ -26,8 +26,11 @@ Theres also a level of deliberate ambiguity to the story that I play with vis a 
 
 Some of the big inspirations for Reverie are (in no particular order): Westworld, I Saw The TV Glow, The Matrix, Ready Player One (*I found it a struggle so tried to take lessons on what didn't work for me*), Human Domestication Guide Community Setting (many stories but especially Good Sensory and Dog of War), WARHOUND, Empty Spaces, Spirited Away, C.S Lewis, The Legend of Zelda.
 
+### The Setting
+There are other stories within the Tales of Reverie Setting, written by amazing authors and my dear friends. I've compiled them in [this collection](https://archiveofourown.org/collections/Reverie_Stories).
+
 # The Author
-SlyPrincess is an author, elf, bunny and doll woman who has been creating escapist fantasies since she was a little boy. This specific fantasy began to form as a proto-setting used in TTRPG games beginning in 2021. She began writing stories for others to read in 2024, primarily in the Human Domestication Guide Setting. Now she's writting about Reverie!   
+SlyPrincess is an author, elf, bunny and doll who has been creating escapist fantasies since she was a little boy. This specific fantasy began to form as a proto-setting used in TTRPG games beginning in 2021. She began writing stories for others to read in 2024, primarily in the Human Domestication Guide Setting. Now she's writting about Reverie!   
 For more information on SlyPrincess, follow her on social media or read her stories [here](https://slyprincess.carrd.co/).  
 For more information on being a woman, read about HRT [here](https://en.wikipedia.org/wiki/Hormone_replacement_therapy).  
-For more information on being a pactling, head to your local *Abby of Erathii*.
+For more information on being a pactling, head to your local [Abby of Erathii](https://archiveofourown.org/collections/Reverie_Stories).
